@@ -1,0 +1,28 @@
+//iniciar 
+
+#git init
+
+//repositorio en el cual vamos a trabajar
+
+#git remote add origin https://github.com/AngelSise/prueba.git
+
+//subir un archivo
+
+#git add "nombre de archivo"
+
+// verificar modificaciones
+
+#git status
+
+// agregar un commit y comentario 
+
+#git commit -m "comentario"
+
+// subir push 
+
+# git push -u origin master
+
+
+
+
+
