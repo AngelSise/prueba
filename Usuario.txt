@@ -1,3 +1,5 @@
 hola repositorio de prueba
 
 agregamos el nombre
+
+areglando bugs de aplicacion
